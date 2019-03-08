@@ -1,5 +1,7 @@
-# CGstudios
+# Visual Effects and Animation Studios
+
 A markdown file of visual effects and animation studios around the world
+
 Everyone is welcome to contribute! Just edit the README.md file and follow the formatting style.
 
 | Company | Website | City | Country | VFX | Animation | Games | Job Postings |
