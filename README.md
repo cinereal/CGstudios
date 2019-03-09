@@ -45,3 +45,11 @@ Everyone is welcome to contribute! Just edit the README.md file and follow the f
 | Method | [www.methodstudios.com](https://www.methodstudios.com/) | Melbourne | AU | Yes |  |  | [Method Jobs](https://www.methodstudios.com/en/careers-landing/search/) |
 | Base FX | [www.base-fx.com](http://www.base-fx.com/) | Beijing | CN | Yes |  |  | [Base Jobs](http://www.base-fx.com/jobs/) |
 | Base FX | [www.base-fx.com](http://www.base-fx.com/) | Kuala Lumpur | MY | Yes |  |  | [Base Jobs](http://www.base-fx.com/jobs/) |
+| Scanline VFX | [www.scanlinevfx](https://www.scanlinevfx.com/) | Munich | DE | Yes |  |  | [Scanline Careers](https://www.scanlinevfx.com/vancouver-la-careers) |
+| Scanline VFX | [www.scanlinevfx](https://www.scanlinevfx.com/) | Vancouver | CA | Yes |  |  | [Scanline Careers](https://www.scanlinevfx.com/vancouver-la-careers) |
+| Scanline VFX | [www.scanlinevfx](https://www.scanlinevfx.com/) | Montreal | CA | Yes |  |  | [Scanline Careers](https://www.scanlinevfx.com/vancouver-la-careers) |
+| Digital Domain | [www.digitaldomain.com](https://www.digitaldomain.com/) | Vancouver | CA | Yes |  |  | [Digital Domain Careers](http://careers.digitaldomain.com/) |
+| Atomic Cartoons | [atomiccartoons.com](http://atomiccartoons.com/) | Vancouver | CA | Yes |  |  | [Atomic Cartoons Careers](http://atomiccartoons.com/careers/) |
+| Artifex Studios | [www.artifexstudios.com](http://www.artifexstudios.com/) | Vancouver | CA | Yes |  |  | [Artifex Jobs](http://www.artifexstudios.com/jobs) |
+| Encore VFX | [www.encorepost.com](http://www.encorepost.com/) | Vancouver | CA | Yes |  |  |  |
+| Zoic Studios | [www.zoicstudios.com](https://www.zoicstudios.com/) | Vancouver | CA | Yes |  |  | [Zoic Jobs](https://zoicstudios.applytojob.com/) |
