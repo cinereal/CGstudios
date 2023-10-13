@@ -53,3 +53,4 @@ Everyone is welcome to contribute! Just edit the README.md file and follow the f
 | Artifex Studios | [www.artifexstudios.com](http://www.artifexstudios.com/) | Vancouver | CA | Yes |  |  | [Artifex Jobs](http://www.artifexstudios.com/jobs) |
 | Encore VFX | [www.encorepost.com](http://www.encorepost.com/) | Vancouver | CA | Yes |  |  |  |
 | Zoic Studios | [www.zoicstudios.com](https://www.zoicstudios.com/) | Vancouver | CA | Yes |  |  | [Zoic Jobs](https://zoicstudios.applytojob.com/) |
+
